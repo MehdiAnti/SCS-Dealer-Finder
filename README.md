@@ -7,7 +7,8 @@
 
 - Extract dealer and city name from `.scs` files for ETS2 and ATS.  
 - Normalize dealer names and fix common typos.  
-- Export data in **TXT**, **JSON**, or **XML** formats. 
+- Export data in **TXT**, **JSON**, or **XML** formats.
+- Extract game version from `version.scs`.
 
 
 ## Requirements
