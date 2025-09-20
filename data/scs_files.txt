@@ -1,0 +1,34 @@
+ets_entries: metiu
+{
+def.scs
+dlc_east.scs
+dlc_north.scs
+dlc_fr.scs
+dlc_it.scs
+dlc_balt.scs
+dlc_balkan_e.scs
+dlc_iberia.scs
+dlc_balkan_w.scs
+dlc_greece.scs
+}
+
+ats_entries: metiu
+{
+def.scs
+dlc_arizona.scs
+dlc_nevada.scs
+dlc_nm.scs
+dlc_or.scs
+dlc_wa.scs
+dlc_ut.scs
+dlc_id.scs
+dlc_ut.scs
+dlc_wy.scs
+dlc_co.scs
+dlc_tx.scs
+dlc_mt.scs
+dlc_ks.scs
+dlc_ne.scs
+dlc_mo.scs
+dlc_ia.scs
+}
