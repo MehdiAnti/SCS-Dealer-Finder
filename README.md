@@ -28,7 +28,7 @@ git clone https://github.com/MehdiAnti/SCS-Dealer-Finder.git
 cd scs-dealer-finder
 ```
 2. Ensure Python 3.10+ is installed.
-3. Make sure converter_pix.exe and scs_files.txt are in the data/ folder.
+3. Make sure `converter_pix.exe` and `scs_files.txt` are in the data/ folder.
 
 ## Usage
 
@@ -36,7 +36,7 @@ cd scs-dealer-finder
 ```
 python main.py
 ```
-2. Select the folder containing your .scs files.
+2. Select the folder containing your `.scs` files.
 3. The program will extract dealer and city data.
 4. Choose an export format:
 
