@@ -10,6 +10,7 @@ dlc_balkan_e.scs
 dlc_iberia.scs
 dlc_balkan_w.scs
 dlc_greece.scs
+dlc_polar.scs
 }
 
 ats_entries: metiu
@@ -31,4 +32,5 @@ dlc_ks.scs
 dlc_ne.scs
 dlc_mo.scs
 dlc_ia.scs
+dlc_la.scs
 }
