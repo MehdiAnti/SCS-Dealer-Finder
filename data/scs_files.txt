@@ -33,4 +33,5 @@ dlc_ne.scs
 dlc_mo.scs
 dlc_ia.scs
 dlc_la.scs
+dlc_sd.scs
 }
